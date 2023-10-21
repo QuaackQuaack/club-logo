@@ -1,4 +1,4 @@
-# club-logo
+# Club Logo
 This repo contains Fanshawe Computer Science Club's logo files. 
 
 The [Transformers Movie Font](https://www.fontspace.com/transformers-movie-font-f34560) is used.  
